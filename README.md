@@ -15,7 +15,7 @@ This is a simple Vite.js template with the following technologies:
 To create a new project based on this template, run the following command in your terminal:
 
 ```bash
-npx degit veloxium/vite-ts-template new-vite-project
+npx degit veloxium/vite-ts-template <new-project-name>
 ```
 
 Replace  `<new-project-name>` with the name of the new project folder.
