@@ -40,6 +40,22 @@ npm run dev
 Your app will be available at `http://localhost:3000`.
 
 
+### 4. **Update Project Name and README**
+
+After cloning the template, update the project name in the `package.json` file:
+
+1. Open the `package.json` file in your project folder.
+2. Change the value of the `"name"` field to match your new project name.
+
+Additionally, update the `README.md` file to reflect the details of your new project:
+
+1. Open the `README.md` file.
+2. Replace the template-specific content with information about your project.
+
+
 ## License
 
-This project is open source.
+This project is open source and free as a bird! 🐦  
+Feel free to use it, tweak it, and make it your own.  
+
+If you like it, don't forget to give some ⭐ love on GitHub - veloxium.  
