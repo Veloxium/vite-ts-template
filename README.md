@@ -9,13 +9,36 @@ This is a simple Vite.js template with the following technologies:
 - Tailwind CSS
 - Lucide Icons
 
-## Technologies Used
+## How To Use
+### 1. **Create a New Project Using This Template**
 
-- **TypeScript**: Static typing for better code maintainability.
-- **React Router DOM**: For managing routes in the app.
-- **Axios**: For making API requests.
-- **Tailwind CSS**: Utility-first CSS framework for styling.
-- **Lucide Icons**: Scalable, customizable icons for the app.
+To create a new project based on this template, run the following command in your terminal:
+
+```bash
+npx degit veloxium/vite-ts-template new-vite-project
+```
+
+Replace  `<new-project-name>` with the name of the new project folder.
+
+### 2. **Install Dependencies**
+
+Navigate to the new project folder and install the dependencies:
+
+```bash
+cd <new-project-name>
+npm install
+```
+
+### 3. **Run the Development Server**
+
+Start the development server with:
+
+```bash
+npm run dev
+```
+
+Your app will be available at `http://localhost:3000`.
+
 
 ## License
 
