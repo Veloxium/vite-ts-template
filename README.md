@@ -1,7 +1,7 @@
 
 # ⚡ Vite.js React Template
 
-This is a simple Vite.js template with the following technologies:
+This is a simple Vite.js template with the following dependencies:
 
 - 🟦 TypeScript
 - 🧭 React Router DOM
